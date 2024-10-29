@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anabella Falkenberg</h1>
 <h3 align="center">A computer science and statistics student at Cornell University</h3>
 
-- 🔭 I’m currently working on **scaling SuSiE to be used with graph represented genetic data in Wei Lab**
+- 🔭 I’m currently working on **scaling SuSiE to be used with graph represented genetic data as a part of Wei Lab**
 
 - 🌱 I’m currently learning **Git Branching and SQL**
 
