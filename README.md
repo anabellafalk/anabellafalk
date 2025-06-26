@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anabella Falkenberg</h1>
-<h3 align="center">A computer science and statistics student at Cornell University</h3>
+<h3 align="center">A Senior at Cornell University studying statistics and computer science</h3>
 
-- 🔭 I’m currently working on **scaling SuSiE to be used with graph represented genetic data in Wei Lab**
+- 🔭 I’m currently working on **building an ML classification model using simulated data**
 
-- 🌱 I’m currently learning **Git Branching and SQL**
+- 🌱 I’m currently learning **SQL**
 
 - 📫 How to reach me **anabella.falk@gmail.com**
 
