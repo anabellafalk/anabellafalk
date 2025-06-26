@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anabella Falkenberg</h1>
-<h3 align="center">Studying statistics and CS at Cornell University</h3>
+<h3 align="center">I study Statistics and CS at Cornell University</h3>
 
 - 🔭 I’m currently working on **building an ML classification model using simulated data**
 
