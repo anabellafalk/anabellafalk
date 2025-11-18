@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **anabella.falk@gmail.com**
 
-- 📄 Know about my experiences in my [resume](https://drive.google.com/file/d/1IQLCFzCjbeDWjzs4vW4J6EcQCEml4vaz/view?usp=sharing)
+- 📄 Know about my experiences in my [resume]([https://drive.google.com/file/d/1IQLCFzCjbeDWjzs4vW4J6EcQCEml4vaz/view?usp=sharing](https://drive.google.com/file/d/1-xEexo2ioMdA9-CoJlKGfE-p09bhGExJ/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
