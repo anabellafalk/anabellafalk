@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anabella Falkenberg</h1>
 <h3 align="center">I study statistics & CS at Cornell University</h3>
 
-- 🔭 I’m currently working on **[SignNet](https://github.com/alexasheldon/cs4701-ai-proj) - a live webcam translator for the ASL alphabet**
+- 🔭 I’m currently working on **[SignNet](https://github.com/alexasheldon/cs4701-ai-proj) - a live webcam classifier for the ASL alphabet**
 
 - 🌱 I’m currently learning **SQL**
 
